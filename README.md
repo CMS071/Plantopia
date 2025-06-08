@@ -58,10 +58,10 @@
 > │   ├─ service  
 > ├─ src/main/resources  
 > │   ├─ mybatis.mapper  
-> │   └─ static  
+> │   ├─ static
+> │   └─ application.properties
 > ├─ src/main/webapp  
-> │   ├─ views    
-> └─ application.properties  
+> │   └─ views      
 > │   ├─　⋮   
 
 - static  
