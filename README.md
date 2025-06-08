@@ -82,7 +82,6 @@
 ![plant](./readme_images/plant.png)
 ![plant2](./readme_images/plant2.png)
 ![plant3](./readme_images/plant3.png)
-### 반려식물 클리닉 게시판
 ![clinic](./readme_images/clinic.png)
 ![clinic2](./readme_images/clinic2.png)
 ![clinic3](./readme_images/clinic3.png)
