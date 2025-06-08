@@ -43,7 +43,8 @@
    4. 공지사항 관리
 
 ## 개발 환경
-
+![pp](./readme_images/개발환경.png)
 - 사용기술 : HTML5, CSS3, Bootstrap, Javascript, UML, JAVA, MySQL, JSP, JSTL, JQuery, AJAX, Servlet, Springboot, MyBatis, Spring Security
 - 개발도구 : Eclipse STS(Spring Tool Suite), Visual Studio Code, MySQL Workbench, StarUML, JDK21, WAS(Apache Tomcat 10.1), Dall e, Git, Github
 - 라이브러리(API) : Iamport 결제 API, 행정안전부 공공 API, 실내정원용 식물 API
+
