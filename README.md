@@ -70,8 +70,25 @@
 > DB 접속 정보 등 전역 설정
  
 ## 결과
+### 접속 화면
 ![login](./readme_images/login.png)
-![](./readme_images/sign_up.png)
-![](./readme_images/.png)
-![](./readme_images/.png)
-![](./readme_images/.png)
+![sign_up](./readme_images/sign_up.png)
+### 메인 화면
+![main](./readme_images/main.png)
+![main2](./readme_images/main2.png)
+![main3](./readme_images/main3.png)
+![profile](./readme_images/profile.png)
+### 반려식물 자랑 게시판
+![plant](./readme_images/plant.png)
+![plant2](./readme_images/plant2.png)
+![plant3](./readme_images/plant3.png)
+### 반려식물 클리닉 게시판
+![clinic](./readme_images/clinic.png)
+![clinic2](./readme_images/clinic2.png)
+![clinic3](./readme_images/clinic3.png)
+### 스토어
+![store](./readme_images/store.png)
+![store](./readme_images/store2.png)
+### 식물 백과사전
+![백과사전](./readme_images/백과사전.png)
+![백과사전](./readme_images/백과사전2.png)
