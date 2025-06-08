@@ -48,3 +48,25 @@
 - 개발도구 : Eclipse STS(Spring Tool Suite), Visual Studio Code, MySQL Workbench, StarUML, JDK21, WAS(Apache Tomcat 10.1), Dall e, Git, Github
 - 라이브러리(API) : Iamport 결제 API, 행정안전부 공공 API, 실내정원용 식물 API
 
+## 폴더 구조
+> Plantopia  
+> ├─ src/main/java  
+> │   ├─ config  
+> │   ├─ controller    
+> │   ├─ dao  
+> │   ├─ dto  
+> │   ├─ service  
+> ├─ src/main/resources  
+> │   ├─ mybatis.mapper  
+> │   └─ static  
+> ├─ src/main/webapp  
+> │   ├─ views    
+> └─ application.properties  
+> │   ├─　⋮   
+
+- static  
+> CSS, JS, 이미지 등 정적 파일 위치  
+- application.properties  
+> DB 접속 정보 등 전역 설정
+ 
+## 결과
