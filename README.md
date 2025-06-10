@@ -77,6 +77,7 @@
 ![main](./readme_images/main.png)
 ![main2](./readme_images/main2.png)
 ![main3](./readme_images/main3.png)
+### 프로필
 ![profile](./readme_images/profile.png)
 ### 반려식물 자랑 게시판
 ![plant](./readme_images/plant.png)
